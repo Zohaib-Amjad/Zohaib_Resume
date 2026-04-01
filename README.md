@@ -1,5 +1,3 @@
-Here are some clean README bullet points with emojis:
-
 **About Me**
 - 👋 Hi, I'm Zohaib Amjad.
 - 🌍 Based in Lahore, Pakistan
@@ -27,6 +25,6 @@ Here are some clean README bullet points with emojis:
 **Fun Facts**
 - ⚡ Fun fact: Track my doings 😄
 - 🎮 Hobbies: Cricket
-- 🌟 Goal: [your professional goal]
+- 🌟 Goal: To become Full-Stack Website Developer
 
 Just fill in the brackets with your own details and remove any sections that don't apply!
